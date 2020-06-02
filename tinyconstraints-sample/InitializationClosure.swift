@@ -8,12 +8,6 @@
 
 import UIKit
 
-let mainView: UIView = {
-    let view = UIView()
-    view.backgroundColor = .systemBackground
-    return view
-}()
-
 let view1: UIView = {
     let view = UIView()
     view.backgroundColor = .red
